@@ -1,5 +1,5 @@
 <div class="page-header">
-  <h1>{{ page.title }} <small>Supporting tagline</small></h1>
+  <h1>{{ page.title }} </h1>
 </div>
 
 <div class="row">
@@ -8,7 +8,7 @@
     <hr>
     <div class="pagination">
       <ul>
-      {% if page.previous %}
+      {% if page.previ{{ page.title }}ous %}
         <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
       {% else %}
         <li class="prev disabled"><a>&larr; Previous</a></li>
