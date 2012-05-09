@@ -2,7 +2,7 @@
 layout: post
 title: "我的eclipse配置"
 category: various
-tags: [eclipse,IDE]
+tags: [eclipse, IDE]
 ---
 {% include JB/setup %}
 
