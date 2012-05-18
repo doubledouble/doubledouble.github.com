@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Chenzw
+title: ( ⊙ o ⊙ )！
 ---
 {% include JB/setup %}
 
+   
+**最近发布的文章**
 
 <ul class="posts">
   {% for post in site.posts %}
