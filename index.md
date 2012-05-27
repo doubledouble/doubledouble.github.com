@@ -13,4 +13,5 @@ title: ( ⊙ o ⊙ )！
   {% endfor %}
 </ul>
 
+[Contact me](contact.html)
 
